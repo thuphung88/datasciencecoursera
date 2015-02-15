@@ -1,1 +1,1 @@
-Data Specialization projects
+## Data Science Specialization Projects
